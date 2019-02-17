@@ -1,6 +1,13 @@
 # nodejs-sample
 
-npm install 
+Run local
 
-npm start 
+Step 1: docker-compose up -d --build
+
+Step 2: npm install 
+
+Step 2: npm start 
+
+
+
 
