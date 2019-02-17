@@ -1,6 +1,6 @@
 # nodejs-sample
 
-#Run npm install on main folder
+npm install 
 
-#Run npm start 
+npm start 
 
